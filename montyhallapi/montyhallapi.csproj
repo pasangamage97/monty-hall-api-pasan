@@ -13,9 +13,5 @@
 
   <ItemGroup>
     <None Remove="Microsoft.VisualStudio.Web.CodeGeneration.Design" />
-    <None Remove="Model\" />
-  </ItemGroup>
-  <ItemGroup>
-    <Folder Include="Model\" />
   </ItemGroup>
 </Project>
